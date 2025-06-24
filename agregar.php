@@ -10,7 +10,7 @@
   <div class="container">
     <header>
       <div class="menu">
-        <a href="index.html">
+        <a href="index.php">
           <img src="logo.png" alt="Logo del sitio" id="logo">
         </a>
         <nav class="menu-links">
