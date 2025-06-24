@@ -17,7 +17,7 @@ $juegos = $stmt->fetchAll(PDO::FETCH_ASSOC);
   <div class="container">
     <header>
       <div class="menu">
-        <a href="index.html">
+        <a href="index.php">
           <img src="logo.png" alt="Logo del sitio" id="logo">
         </a>
         <nav class="menu-links">
